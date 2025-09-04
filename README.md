@@ -12,7 +12,7 @@
 
 ## Linguagens e Ferramentas:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs, &theme=dark" />
+<img src="(https://skillicons.dev/icons?i=js,html,css,wasm) &theme=dark" />
 
 ## Sobre mim
 
